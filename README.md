@@ -14,7 +14,7 @@ Conduct in-depth interviews with the target customer segment in order to underst
   - Interview Questions.
   - Interview Persona 1.
   - Interview Persona 2.
-  - What are the results and recommendation of the interview?
+  - What are the results and recommendations of the interview?
   - How will Trello be marketed to Moms?
 
 ## Knowledge Officer Robric
