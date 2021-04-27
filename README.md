@@ -4,7 +4,7 @@ You are leading the product team at Trello. The assumption for so long has been 
 Conduct in-depth interviews with the target customer segment in order to understand thier needs and habits and validate the new  hypthesis. Present your interview script as well as findings in a qualitative marketing research report.
 
 <p align="center">
-<img src= "https://github.com/yarahisham/Trello_CaseStudy-Marketing_Research/blob/main/Images/Screen%20Shot%202021-04-27%20at%207.01.54%20PM.jpg" alt="alt text" width="700" height="100" >
+<img src= "https://github.com/yarahisham/Trello_CaseStudy-Marketing_Research/blob/main/Images/Screen%20Shot%202021-04-27%20at%207.01.54%20PM.jpg" alt="alt text" width="700" height="200" >
 </p>
 
 ## Description
@@ -22,5 +22,5 @@ Conduct in-depth interviews with the target customer segment in order to underst
 </p>
 
 <p align="center">
-<img src="https://github.com/yarahisham/Trello_CaseStudy-Marketing_Research/blob/main/Images/Screen%20Shot%202021-04-27%20at%207.02.21%20PM.jpg" alt="alt text" width="700" height="100" >
+<img src="https://github.com/yarahisham/Trello_CaseStudy-Marketing_Research/blob/main/Images/Screen%20Shot%202021-04-27%20at%207.02.21%20PM.jpg" alt="alt text" width="700" height="200" >
 </p>
